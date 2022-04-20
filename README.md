@@ -1,6 +1,7 @@
 ## 🚀 Social Network 
+<div align="center">
 [![GitHub followers](https://img.shields.io/github/followers/gpr4do?label=GitHub&logo=Github&style=for-the-badge)](https://github.com/gpr4do/) - [![LinkedIn gpr4do](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gpr4do/) 
-
+</div>
 ## 💻 Technologies of my everyday life
 <div align="center">
 
